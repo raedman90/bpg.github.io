@@ -1,4 +1,5 @@
 # raedman90.github.io
+# Aluno Francisco Israel de Oliveira
 <hr></hr>
 Repositiorio para o projeto da cadeira de Gerência de Configuração e Mudanças do IFPB
 
@@ -7,8 +8,9 @@ CAMPUS CAJAZEIRAS
 
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
 <hr></hr>
-## Aluno Francisco Israel de Oliveira
 
-*Brasil Play Games - SOFTWARE*
+<h4 align="center"> 
+	🚧  Brasil Play Games 🚀 Em construção...  🚧
+</h4>
 
-https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge
+[![Issue Badge](https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge)
