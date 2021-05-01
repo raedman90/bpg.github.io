@@ -13,4 +13,4 @@ ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 	🚧  Brasil Play Games 🚀 Em construção...  🚧
 </h4>
 
-[!Issue Badge](https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge)
+[![Issue Badge](https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge)]
