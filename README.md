@@ -1,12 +1,12 @@
 # raedman90.github.io
-<hr>
+<hr></hr>
 Repositiorio para o projeto da cadeira de Gerência de Configuração e Mudanças do IFPB
 
 INSTITUTO FEDERAL – PARAÍBA
 CAMPUS CAJAZEIRAS
 
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 
-<hr>
+<hr></hr>
 ### Aluno Francisco Israel de Oliveira
 
 *Brasil Play Games - SOFTWARE*
