@@ -1,7 +1,7 @@
 # raedman90.github.io
 # Aluno Francisco Israel de Oliveira
 
-[![Issue Badge](https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge)
+![Issue Badge](https://img.shields.io/github/issues/raedman90/raedman90.github.io?style=for-the-badge)
 
 Repositiorio para o projeto da cadeira de Gerência de Configuração e Mudanças do IFPB
 
