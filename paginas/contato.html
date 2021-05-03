@@ -27,14 +27,15 @@
                         <img class="imagemeventos" src="../imagens/contato.png"/>
                     </div>
                     <h2 class="textonovidade">Informações de Contato:</h2>
-                    <input type="text" class="field" placeholder="Seu Nome">
-                    <input type="text" class="field" placeholder="Seu E-mail">
-                    <input type="text" class="field" placeholder="Empresa">
+                    <input type="text" class="field" placeholder="Digite seu nome e sobrenome" onblur="Validate.isNome(this)">
+                    <input type="text" class="field" placeholder="Seu E-mail" onblur="Validate.isEmail(this)">
+                    <input type="text" class="field" placeholder="Nome da Empresa">
                     <input type="text" class="field" placeholder="Telefone">
                     <textarea placeholder="Mensagem" class="field"></textarea>
                     <button class="btn">Enviar</button>
                 </div>
             </div>
         </div>
+    <script src="../js/script.js"></script>
     </body>
 </html>
