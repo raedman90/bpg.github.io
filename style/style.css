@@ -6,6 +6,7 @@ body{
 @media (max-width: 613px){
 	body{
 		background-image: url('../imagens/background.jpg');
+        background-attachment: fixed;
 	}
     .container {
         background-color: rgba(255, 217, 0, 0.705);
@@ -13,13 +14,15 @@ body{
         border-style: solid;
         border-color: rgb(255, 255, 255);
     }
+    .right{
+        padding: 20px 50px;
+    }
     .contact{
         justify-content: center;
         align-items: center;
-        padding: 20px 100px;
+        padding: 100px 200px;
     }
     .contact-box{
-        max-width: 750px;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         justify-content: center;
@@ -30,15 +33,6 @@ body{
         border-radius: 50px;
         border-style: solid;
         border-color: rgb(0, 0, 0);
-    }
-    
-    .left{
-        background: url("../imagens/logo.png") no-repeat center;
-        height: 100%;
-    }
-    
-    .right{
-        padding: 25px 40px;
     }
 }
 ul.navegacao {
@@ -150,12 +144,10 @@ li a:hover {
 }
 .contact{
 	position: relative;
-	width: 100%;
-	height: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 20px 100px;
+	padding: 50px 50px;
 }
 .btn{
 	width: 100%;
@@ -175,7 +167,7 @@ li a:hover {
 }
 .contact-box{
 	max-width: 750px;
-	display: grid;
+	display: flex;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
 	align-items: center;
@@ -186,14 +178,8 @@ li a:hover {
     border-style: solid;
     border-color: rgb(0, 0, 0);
 }
-
-.left{
-	background: url("../imagens/logo.png") no-repeat center;
-	height: 100%;
-}
-
 .right{
-	padding: 25px 40px;
+	padding: 25px 60px;
 }
 .blog-portfolio {
     padding: 35px 300px;
@@ -202,7 +188,7 @@ li a:hover {
 .container-blog {
     border-radius: 50px;
     border-style: solid;
-    display: grid;
+    display: flex;
     border-color: rgb(5, 0, 0);
-    padding: 5px 100px;
+    padding: 5px 30px;
 }
