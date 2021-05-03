@@ -4,6 +4,7 @@
 
 <p align="center">
 <a href=“https://raedman90.github.io/brasilplaygames/“>WEBSITE - Brasil Play Games</a></p>
+<a lign="center" href=“http://exemplo.com/“>WEBSITE - Brasil Play Games</a>
 
 # Aluno Francisco Israel de Oliveira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raedman90)](https://github.com/raedman90)
