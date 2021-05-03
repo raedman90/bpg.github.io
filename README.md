@@ -1,9 +1,9 @@
 
-![exemplo](imagens/logo.png)
 <p align="center">
   <img src="imagens/logo.png"/></p>
 
-[WEBSITE - Brasil Play Games](https://raedman90.github.io/brasilplaygames/)
+<p align="center">
+<a href=“https://raedman90.github.io/brasilplaygames/“>WEBSITE - Brasil Play Games</a></p>
 
 # Aluno Francisco Israel de Oliveira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raedman90)](https://github.com/raedman90)
