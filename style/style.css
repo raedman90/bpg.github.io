@@ -34,6 +34,27 @@ body{
         border-style: solid;
         border-color: rgb(0, 0, 0);
     }
+    .blog-portfolio {
+        display: grid;
+        margin: 0px;
+        padding-top: 50px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .container-blog {
+        border-radius: 50px;
+        border-style: solid;
+        display: grid;
+        border-color: rgb(5, 0, 0);
+        padding: 5px 30px;
+    }
+    .blog-mensagem {
+        margin: 0px 10px;
+        font-size:16px;
+        color:rgb(255, 255, 255);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
 }
 ul.navegacao {
     margin: 0px 0px; 
