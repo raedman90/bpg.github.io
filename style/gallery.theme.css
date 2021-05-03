@@ -15,11 +15,10 @@
   position: relative;
 }
 .gallery .item {
-  height: 400px;
-  width: 600px;
+  height: 350px;
+  width: 500px;
   overflow: hidden;
   text-align: center;
-  background: #4d87e2;
 }
 .gallery .controls {
   position: absolute;
