@@ -1,6 +1,7 @@
 
 ![exemplo](imagens/logo.png)
-
+<p align="center">
+  <img src="imagens/logo.png"/></p>
 
 [WEBSITE - Brasil Play Games](https://raedman90.github.io/brasilplaygames/)
 
