@@ -1,5 +1,7 @@
-<img src=“imagens/logo.png”>
+
 [Brasil Play Games](https://raedman90.github.io/brasilplaygames/)
+![exemplo](imagens/logo.png)
+
 # Aluno Francisco Israel de Oliveira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raedman90)](https://github.com/raedman90)
 
